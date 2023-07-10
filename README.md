@@ -40,11 +40,11 @@
 - [Tell me about a time when a customer was dissatisfied with your service.
 What did you do?
 ](https://drive.google.com/file/d/1hi7P2bjiuhWIjpfNiWrmfHGKluwAawDM/view?usp=drive_link)
-- [Placeholder text](gitbublink)
-- [Placeholder text](githublink)
-- [Placeholder text](gitbublink)
-- [Placeholder text](githublink)
-- [Placeholder text](githublink)
+- [Tell me about a time when you had to deal with a difficult coworker](https://drive.google.com/file/d/1osK74F1j7eXxN_q7gH1zmAj00FsCKpQZ/view?usp=drive_link)
+- [Tell me about yourself](https://drive.google.com/file/d/1Y7S9Cr-7OT4TgD5wYj6Ysm3IzSyuMHgQ/view?usp=drive_link)
+- [What is your greatest weakness?](https://drive.google.com/file/d/1S-G0LDT4fSZ9CAvYqIukcWdl5M0sYWkC/view?usp=drive_link)
+- [What are your greatest strengths and accomplishments?](https://drive.google.com/file/d/18Pl4wZWQmDlDup2jVo3wky7adymH6iTO/view?usp=drive_link)
+- [How do you envision your first 90 days on the job?](https://drive.google.com/file/d/1K-Nf3m_QOt9g0NUoizA05FFF4Plcweom/view?usp=drive_link)
 - [Placeholder text](gitbublink)
 - [Placeholder text](githublink)
 - [Placeholder text](gitbublink)

@@ -1,8 +1,8 @@
 <b>Technical Questions</b>
-- [Placeholder text](gitbublink)
-- [Placeholder text](githublink)
-- [Placeholder text](gitbublink)
-- [Placeholder text](githublink)
+- [Describe your experience working with Active Directory	](https://drive.google.com/file/d/1PzeSJumIk3l5GcN3sLpbLf6kAZGwaPrs/view?usp=drive_link)
+- [Describe your experience working with Amazon Web Services or any other cloud providers](https://drive.google.com/file/d/1nO80OU7dYQpECoBQJX0clpUMxbmAKa5u/view?usp=drive_link)
+- [Describe the process you use for troubleshooting an issue](https://drive.google.com/file/d/1JgDZOQF658CWGBqX2D-9j5N7FCnIhrks/view?usp=drive_link)
+- [What is the recent skill you have learned that can be helpful for help desk position](https://drive.google.com/file/d/1KGrS89p96pZdI93D39LQNvaSg16gdp5I/view?usp=drive_link)
 - [Placeholder text](gitbublink)
 - [Placeholder text](githublink)
 - [Placeholder text](gitbublink)

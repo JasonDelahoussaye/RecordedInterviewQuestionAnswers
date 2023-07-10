@@ -36,8 +36,10 @@
 - [Tell me one thing you don't like about your current job](https://drive.google.com/file/d/1JwsCrBA1n05bYTm0f9PUeY-Li7NSpQKQ/view?usp=drive_link)
 - [How do you organize your work schedule?](https://drive.google.com/file/d/11pFbJKbOCcYLCmqmHBPVvmJlSSymGuj1/view?usp=drive_link)
 - [Please tell me some of the tasks that you had performed at your previous company](https://drive.google.com/file/d/1wPi3FgbrAYl3Yz0Lb0SJvWxx3kQDn68A/view?usp=drive_link)
-- [Placeholder text](gitbublink)
-- [Placeholder text](githublink)
+- [How do you respond if you're unsure of the answer?](https://drive.google.com/file/d/1tgiY5l6bUoof_DOcAdFOtuv32wZs-5xu/view?usp=drive_link)
+- [Tell me about a time when a customer was dissatisfied with your service.
+What did you do?
+](https://drive.google.com/file/d/1hi7P2bjiuhWIjpfNiWrmfHGKluwAawDM/view?usp=drive_link)
 - [Placeholder text](gitbublink)
 - [Placeholder text](githublink)
 - [Placeholder text](gitbublink)

@@ -10,7 +10,7 @@
 - [If a customer calls in saying their PC is slow, how would you address the problem?](https://drive.google.com/file/d/1emI_Wq2g3ynOP05ZNJH9wVrgGETafZwW/view?usp=drive_link)
 - [A caller reports that their monitor has blacked out. How would you troubleshoot?](https://drive.google.com/file/d/12LB0sjI9LdFPgV0JW8UZowRr1fz3Ps5c/view?usp=drive_link)
 - [Walk us through the steps of adding a new printer to a user’s network](https://drive.google.com/file/d/1lv-alwp67K9EUz0nLbpMpfXX9QGvSgsB/view?usp=drive_link)
-- [Placeholder text](githublink)
+- [What is a VPN?](https://drive.google.com/file/d/1TMN8z79TZAg5oX-E3fPDBVN15NCxIDsl/view?usp=drive_link)
 - [Placeholder text](gitbublink)
 - [Placeholder text](githublink)
 - [Placeholder text](gitbublink)

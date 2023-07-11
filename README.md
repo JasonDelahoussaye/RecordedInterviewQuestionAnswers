@@ -54,3 +54,4 @@ What did you do?
 - [What is the biggest IT challenge you have faced, and how did you handle it?](https://drive.google.com/file/d/13YMUTJHJ-gSk2B8uEt1Y8vl4Z15gCSoo/view?usp=drive_link)
 - [Tell me about a time when you performed well under enormous pressure](https://drive.google.com/file/d/1ukjJeMY7wbG3TCGiU5-gPwmkrZ1-ia4i/view?usp=drive_link)
 - [Tell me about a mistake you've made. How did you handle it?](https://drive.google.com/file/d/1JhurWlkd3uyqGW5cUVzHkL2EIN0H28JK/view?usp=drive_link)
+- [What is DNS and what ports does it use?](https://drive.google.com/file/d/1Nfhx8p_cRxHI-93prTJ2GATJMsQ-mdbJ/view?usp=drive_link)

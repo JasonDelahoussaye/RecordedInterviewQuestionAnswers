@@ -18,12 +18,14 @@
 - [What languages have you programmed in?](https://drive.google.com/file/d/1w4cqEbskNJxpNXF-G5m7XBo4yAKepeZm/view?usp=drive_link)
 - [Tell me about the most recent project you worked on. What were your responsibilities?](https://drive.google.com/file/d/1VN-HWiYUBxPUZTqR0K2e_cg5TNq_kJzg/view?usp=drive_link)
 - [Three tickets come in at the same time CEO's personal iPad is slow and he is very mad, 5 people in accounting are suddenly missing important software to do their job, and the customer facing e-commerce site is down. Describe how you would prioritize these tickets?](https://drive.google.com/file/d/1VWAdn7XvEOJ0oHiNLteod6d-b0K6z5ya/view?usp=drive_link)
-- [Your department is performing a hardware refresh of 1000 laptops where performancespeed of the systems is paramount. Your manager asks you to decide between 1TB HDDs and 500GB SSDs for the department. Both drives are the same price. Which do you choose and why?](https://drive.google.com/file/d/1XDDjoqEdue8azaD8UxxiqUdFP7S6YHui/view?usp=drive_link)
-- [Placeholder text](githublink)
-- [Placeholder text](gitbublink)
-- [Placeholder text](githublink)
-- [Placeholder text](gitbublink)
-- [Placeholder text](githublink)
+- [Your department is performing a hardware refresh of 1000 laptops where performance speed of the systems is paramount. Your manager asks you to decide between 1TB HDDs and 500GB SSDs for the department. Both drives are the same price. Which do you choose and why?](https://drive.google.com/file/d/1XDDjoqEdue8azaD8UxxiqUdFP7S6YHui/view?usp=drive_link)
+- [What are the 7 layers of the OSI Model?](https://drive.google.com/file/d/1_pX82fhT83DRyyWOpf56PdhbT0rsMqUV/view?usp=drive_link)
+- [What is a situation where you would use SSH What port does SSH operate on?](https://drive.google.com/file/d/1rrA1VZ44K0hBiskYDZZgyxOQQksC8_Se/view?usp=drive_link)
+- [Describe any experience you have with remote assistance tools](https://drive.google.com/file/d/1lUxxJOY6lqmpKHOEXIZoLD0Pn7qRkmVg/view?usp=drive_link)
+- [In what situation would you use the ping command?](https://drive.google.com/file/d/1iDgCcSIwZhG2asog4yZeJ0OL0wBAki0N/view?usp=drive_link)
+- [What does DHCP stand for and why is it used?](https://drive.google.com/file/d/1FGGJo4wQBfxzT0d7Q15oGNmkUXH7QsKT/view?usp=drive_link)
+- [What is DNS and what ports does it use?](https://drive.google.com/file/d/1Nfhx8p_cRxHI-93prTJ2GATJMsQ-mdbJ/view?usp=drive_link)
+
 
 <br> <b>Behavioral Questions</b>
 - [How important is customer service to you?](https://drive.google.com/file/d/1cQac3Xu5NWm3cIp1L8gvoF3yB8yxwfQF/view?usp=drive_link)

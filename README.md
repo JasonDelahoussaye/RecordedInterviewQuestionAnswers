@@ -24,7 +24,7 @@
 - [Describe any experience you have with remote assistance tools](https://drive.google.com/file/d/1lUxxJOY6lqmpKHOEXIZoLD0Pn7qRkmVg/view?usp=drive_link)
 - [In what situation would you use the ping command?](https://drive.google.com/file/d/1iDgCcSIwZhG2asog4yZeJ0OL0wBAki0N/view?usp=drive_link)
 - [What does DHCP stand for and why is it used?](https://drive.google.com/file/d/1FGGJo4wQBfxzT0d7Q15oGNmkUXH7QsKT/view?usp=drive_link)
-- [What is DNS and what ports does it use?](https://drive.google.com/file/d/1Nfhx8p_cRxHI-93prTJ2GATJMsQ-mdbJ/view?usp=drive_link)
+- [What is DNS and what port does it use?](https://drive.google.com/file/d/1Nfhx8p_cRxHI-93prTJ2GATJMsQ-mdbJ/view?usp=drive_link)
 
 
 <br> <b>Behavioral Questions</b>
@@ -55,4 +55,3 @@ What did you do?
 - [What is the biggest IT challenge you have faced, and how did you handle it?](https://drive.google.com/file/d/13YMUTJHJ-gSk2B8uEt1Y8vl4Z15gCSoo/view?usp=drive_link)
 - [Tell me about a time when you performed well under enormous pressure](https://drive.google.com/file/d/1ukjJeMY7wbG3TCGiU5-gPwmkrZ1-ia4i/view?usp=drive_link)
 - [Tell me about a mistake you've made. How did you handle it?](https://drive.google.com/file/d/1JhurWlkd3uyqGW5cUVzHkL2EIN0H28JK/view?usp=drive_link)
-- [What is DNS and what ports does it use?](https://drive.google.com/file/d/1Nfhx8p_cRxHI-93prTJ2GATJMsQ-mdbJ/view?usp=drive_link)
